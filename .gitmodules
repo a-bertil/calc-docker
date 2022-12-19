@@ -1,4 +1,4 @@
 [submodule "calcom"]
 	path = calcom
-	url = https://github.com/calcom/cal.com.git
-	branch = main
+	url = https://github.com/a-bertil/cal.com.git
+	branch = release/v2.4.0
